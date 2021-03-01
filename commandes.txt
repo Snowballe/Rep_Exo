@@ -1,0 +1,1000 @@
+  254  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  255  ./start.command 
+  256  ./update 
+  257  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  258  ./start.command 
+  259  cd ../..
+  260  cd vscode/
+  261  ls
+  262  pwd
+  263  sudo apt-get install build-essential manpages-dev
+  264  whereis gcc
+  265  which gcc
+  266  gcc --version
+  267  *
+  268  gcc main.c -o executable-file-name
+  269  make main.c
+  270  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  271  ./start.command 
+  272  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  273  ./start.command 
+  274  mv ~/Downloads/paper-246.jar ./
+  275  ls
+  276  nano start.command 
+  277  ./start.command 
+  278  cd
+  279  ./update 
+  280  git config --global --unset core.autocrlf
+  281  java -jar BuildTools.jar
+  282  curl -o BuildTools.jar https://hub.spigotmc.org/jenkins/job/BuildTools/
+  283  git config --global --unset core.autocrlf
+  284  java -jar BuildTools.jar
+  285  ls
+  286  chmod u+x BuildTools.jar 
+  287  java -jar BuildTools.jar
+  288  sudo java -jar BuildTools.jar
+  289  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  290  ./start.command 
+  291  ls
+  292  ruby responseHTTP.rb 
+  293  ./update 
+  294  curl --help
+  295  sudo apt install https://launchpad.net/~codeblocks-devs/
+  296  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  297  ./start.command 
+  298  mkdir mc
+  299  cd mc/
+  300  git clone https://aur.archlinux.org/minecraft-launcher.git
+  301  ls
+  302  ./minecraft-launcher/
+  303  cd minecraft-launcher/
+  304  ls
+  305  ./minecraft-launcher.desktop 
+  306  git clone https://aur.archlinux.org/minecraft-launcher.git
+  307  ls
+  308  cd minecraft-launcher/
+  309  ls
+  310  ./minecraft-laucher.desktop
+  311  cd
+  312  ls
+  313  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  314  ./start.command 
+  315  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  316  ./start.command 
+  317  ipconfig
+  318  ifconfig
+  319  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  320  ./start.command 
+  321  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  322  ./start.command 
+  323  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  324  .:s
+  325  ./start.command 
+  326  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  327  ./start.command 
+  328  cd
+  329  ./update 
+  330  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  331  ./start.command 
+  332  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  333  ./start.command 
+  334  ./update 
+  335  cd Serveurs\ MC\ 2020/serveur_mc_1_16_3/
+  336  ./start.command 
+  337  ls
+  338  mkdir ProjetWebEPSI
+  339  cd ProjetWebEPSI/
+  340  git init
+  341  git remote add origin https://github.com/Snowballe/ProjetWebEPSI.git
+  342  nano owi
+  343  mv owi README.md
+  344  ls
+  345  git add *
+  346  git commit -m "Le bon readme pour voir si je suis pas trop con"
+  347  git config --global user.email "mael.loussouarn@gmail.com"
+  348  git config --global user.name "Snowballe"
+  349  git commit -m "Le bon readme pour voir si je suis pas trop con"
+  350  git push *
+  351  git status
+  352  git add *
+  353  git status
+  354  lq
+  355  ll
+  356  git status
+  357  git add *
+  358  git commit -m "Le bon readme pour voir si je suis pas trop con"
+  359  ls
+  360  git push *
+  361  ll
+  362  mv README.md testrepo
+  363  git add testrepo 
+  364  git commit "Envie de push"
+  365  git commit -m "Envie de push"
+  366  git push origin master
+  367  ../update 
+  368  ./update 
+  369  cd Serveurs\ MC\ 2020/
+  370  cp serveur_mc_1_16_3/ pixelmonserver/
+  371  cp -r serveur_mc_1_16_3/ pixelmonserver/
+  372  ls pixelmonserver/
+  373  cd
+  374  ls
+  375  mv Downloads/forge-1.16.3-34.1.0- Serveurs\ MC\ 2020/pixelmonserver/
+  376  cd Downloads/
+  377  cd Serveurs\ MC\ 2020/pixelmonserver/
+  378  ./start.command 
+  379  cd
+  380  cd Downloads/
+  381  chmod u+x forge-1.16.3-34.1.0-
+  382  ls
+  383  chmod u+x forge-1.16.3-34.1.0-launcher.jar 
+  384  chmod u+x forge-1.16.3-34.1.0-installer.jar 
+  385  ./forge-1.16.3-34.1.0-installer.jar 
+  386  cd
+  387  cd Serveurs\ MC\ 2020/pixelmonserver/
+  388  ./start.command 
+  389  chmod u+x forge-1.16.3-34.1.0-launcher.jar 
+  390  ./start.command 
+  391  ./forge-1.16.3-34.1.0-launcher.jar 
+  392  ls
+  393  ./start.command 
+  394  cd
+  395  cd Downloads/
+  396  msiexec /i Pixelmon_Installer_644895.msi 
+  397  sudo apt install msiexec
+  398  sudo dpkg --add-architecture i386 
+  399  wget -nc https://dl.winehq.org/wine-builds/winehq.key
+  400  sudo apt-key add winehq.key
+  401  sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main' 
+  402  sudo apt update
+  403  sudo apt install --install-recommends winehq-stable
+  404  msiexec /i Pixelmon_Installer_644895.msi 
+  405  cd
+  406  ll
+  407  cd .minecraft/
+  408  ls
+  409  chmod u+x minecraft_server.1.16.3.jar 
+  410  ./minecraft_server.1.16.3.jar 
+  411  ./start.command 
+  412  ifconfig
+  413  msiexec /i Pixel
+  414  ls
+  415  cd mods/
+  416  msiexec /i Pixelmon_Installer_644895.msi 
+  417  chmod u+x PixelmonCraft.jar 
+  418  ./PixelmonCraft.jar 
+  419  cd aaaaaa/
+  420  ./PixelmonCraft.jar 
+  421  cd ../
+  422  rm -rf aaaaaa/
+  423  ls
+  424  chmod u+x Pixelmon_Installer_644895.msi 
+  425  ./Pixelmon_Installer_644895.msi 
+  426  msiexec /i Pixelmon_Installer_644895.msi 
+  427  msiexec /i -no-cef-sandbox Pixelmon_Installer_644895.msi 
+  428  cd ../
+  429  ./start.command 
+  430  cd
+  431  cd Serveurs\ MC\ 2020/
+  432  cp serveur_mc_1_16_3/ serveur_survie_mc_1_16_3/
+  433  cp -r serveur_mc_1_16_3/ serveur_survie_mc_1_16_3/
+  434  ls
+  435  cd serveur_survie_mc_1_16_3/
+  436  ./start.command 
+  437  mv /home/snowballe/Downloads/server.jar ~
+  438  ls
+  439  ./start.command 
+  440  ifcongig
+  441  ifcongif
+  442  ifconfig
+  443  cd mods/
+  444  wine -no-cef-sandbox Pixelmon_Installer_644895.msi 
+  445  wine Pixelmon_Installer_644895.msi 
+  446  ./Pixelmon_Installer_644895.msi 
+  447  msiexec Pixelmon
+  448  msiexec Pixelmon_Installer_644895.msi 
+  449  msiexec /i Pixelmon_Installer_644895.msi 
+  450  cd
+  451  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  452  ./start.command 
+  453  cd
+  454  sudo apt install apache
+  455  sudo apt-get install apache
+  456  sudo apt-get install apache2 -yy
+  457  ifconfig
+  458  cd /var/www/html/index.html
+  459  cd /var/www/html/
+  460  ls
+  461  nano index.html 
+  462  cd
+  463  sudo apt-get install php5 libapache2-mod-php5
+  464  sudo apt-get install php6 libapache2-mod-php6
+  465  sudo apt-get install php5 libapache2-mod-php5
+  466  sudo apt-get install php7 libapache2-mod-php7
+  467  sudo add-apt-repository ppa:ondrej/php
+  468  sudo apt update
+  469  sudo apt upgrade
+  470  sudo apt-get install php7.3
+  471  sudo apt-get install php7.3 libapache2-mod-php7.3
+  472  sudo /etc/init.d/apache2 restart
+  473  cd /var/www
+  474  ls
+  475  nano testfile
+  476  sudo nano testfile.php*
+  477  ls
+  478  ifconfig
+  479  ls
+  480  sudo mv testfile.php testfile
+  481  ls
+  482  sudo mkdir php
+  483  mv testfile php/testfile.php*
+  484  sudo mv testfile php/testfile.php
+  485  cd php/
+  486  ls
+  487  ll
+  488  cd ../html/
+  489  ls
+  490  sudo mv ../php/testfile.php ~
+  491  ls
+  492  mv ~/testfile.php ./
+  493  sudo mv ~/testfile.php ./
+  494  ls
+  495  ll
+  496  ls -ali
+  497  li
+  498  ll
+  499  sudo apt-get install mysql-server
+  500  mysql -u root
+  501  sudo mysql -u root
+  502  mysqladmin -u root password NEWPASSWORD
+  503  salam
+  504  mysql -u root -p
+  505  pwd
+  506  echo
+  507  echo ghhffh
+  508  echo reggin | rev
+  509  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  510  ./start.command 
+  511  ./update 
+  512  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  513  ./start.command 
+  514  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  515  ./start.command 
+  516  cd
+  517  ./update 
+  518  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  519  ./start.command 
+  520  mv ../serveur_mc_1_16_3/craftbukkit-1.16.3.jar ./
+  521  ./start.command 
+  522  cd
+  523  ./update 
+  524  cd
+  525  ./update 
+  526  ip -a
+  527  ip a
+  528  cd
+  529  ./update 
+  530  cd
+  531  sl
+  532  ls
+  533  cd /var/www/
+  534  ls
+  535  ls php/
+  536  rmdir php/
+  537  sudo rmdir php/
+  538  ls
+  539  ll
+  540  cd html/
+  541  ls
+  542  nano testfile.php 
+  543  sudo nano testfile.php 
+  544  ifconfig
+  545  mysql -u root
+  546  sudo su
+  547  cd
+  548  /etc/init.d/mysql start
+  549  cd /var/www/
+  550  /etc/init.d/mysql start
+  551  cd /etc/apache2/
+  552  ls
+  553  ps -ef
+  554  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  555  ./start.command 
+  556  nano ./start.command 
+  557  ls
+  558  grep ^Bui
+  559  grep ^Build*
+  560  ./start.command 
+  561  curl -o BuildTools.jar https://hub.spigotmc.org/jenkins/job/BuildTools/lastSuccessfulBuild/artifact/target/BuildTools.jar
+  562  git config --global --unset core.autocrlf
+  563  java -jar BuildTools.jar
+  564  ./start.command 
+  565  java -jar BuildTools.jar --rev 1.16.4
+  566  nano start.command 
+  567  ./start.command 
+  568  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  569  ./start.command 
+  570  poweroff
+  571  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  572  ./start.command 
+  573  ping 192.168.1.29
+  574  arp -a
+  575  ifconfig | grep 192.168
+  576  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  577  .:s
+  578  ./start.command 
+  579  ifconfig*
+  580  ifconfi
+  581  ifconfig
+  582  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  583  .:s
+  584  ./start.command 
+  585  poweroff
+  586  ifconfig
+  587  sudo ufw open 25565
+  588  sudo ufw allow 25565
+  589  ./update 
+  590  cd Serveurs\ MC\ 2020/serveur_survie_mc_1_16_3/
+  591  ./start.command 
+  592  nano testalacon
+  593  ls
+  594  nano testalacon
+  595  testalacon << pwd
+  596  jej
+  597  nano testalacon 
+  598  pwd
+  599  pwd >> testalacon 
+  600  nano testalacon 
+  601  ./update 
+  602  gcc
+  603  ls
+  604  nano test.c
+  605  gcc test
+  606  gcc test.C
+  607  LSA
+  608  gcc test.c
+  609  nano test.c
+  610  gcc test.c
+  611  sudo apt install rpi-imager
+  612  wget https://people.debian.org/~gwolf/raspberrypi3/20190206/20190206-raspberry-pi-3-buster-PREVIEW.img.xz
+  613  ./update 
+  614  nano passpi
+  615  ls
+  616  ./a.out 
+  617  nano a.out 
+  618  ./update 
+  619  poweroof
+  620  poweroff
+  621  ls
+  622  ./update 
+  623  git clone Snowballe/abwar
+  624  git clone https://github.com/Snowballe/abwar
+  625  ls
+  626  cd abwar/
+  627  ls
+  628  cd
+  629  cd Documents/android-studio/
+  630  ls
+  631  cd ../
+  632  cd /bin
+  633  cd ~/Documents/bin
+  634  cd ~/Documents/
+  635  mkdir bin
+  636  cd bin/
+  637  ./studio.sh
+  638  cd ../
+  639  ls
+  640  cd android-studio/bin/
+  641  ./studio.sh 
+  642  ls
+  643  git pull https://github.com/Snowballe/abwar
+  644  cd abwar/
+  645  git pull
+  646  git config --global user.name
+  647  git config --global user.mail
+  648  git config
+  649  git config --global
+  650  git config user.name Snowballe
+  651  android
+  652  discord
+  653  git config --global user.name Snowballe
+  654  git config --global user.email snacki3andmr.5@gmail.com
+  655  ls
+  656  cd abwar/
+  657  ls
+  658  sudo apt install android-studio
+  659  cd ../
+  660  ./update 
+  661  poweroff
+  662  ls
+  663  cat passpi 
+  664  nano mariadbpass
+  665  cd /var/www/html/
+  666  nano a
+  667  sudo nano a
+  668  ls
+  669  sudo nano b
+  670  cd
+  671  ./update 
+  672  nano nextcloudpass
+  673  ls
+  674  cat passpi s
+  675  cat passpi
+  676  cat mariadbpass 
+  677  ssh
+  678  ssh open
+  679  ssh open 192.168.1.29
+  680  ssh open 192.168.1.29:22
+  681  ssh open 192.168.1.29:22@pi
+  682  ssh open 192.168.1.29@pi
+  683  ssh pi@192.168.1.29
+  684  ssh open pi@192.168.1.29
+  685  ssh pi@192.168.1.29
+  686  ssh
+  687  ssh pi@192.168.1.29
+  688  ./update 
+  689  ssh pi@192.168.1.29
+  690  ssh -p 2222 app-systeme-ch13@challenge02.root-me.org 
+  691  ssh pi@192.168.1.29
+  692  cd /etc
+  693  nano host
+  694  nano hosts
+  695  sudo nano hosts
+  696  ssh pi@192.168.1.29
+  697  nano hosts
+  698  sudo nano hosts
+  699  sysctl
+  700  sysctl restart html
+  701  sysctl restart apache2
+  702  systemctl restart apache2
+  703  ssh pi@cloud.boc
+  704  ssh pi@192.168.1.29
+  705  ./update 
+  706  sudo dpkg --configure -a
+  707  ./update 
+  708  ssh pi@192.168.1.29
+  709  ./update 
+  710  ssh pi@192.168.1.29
+  711  ssh root@192.168.1.29
+  712  R00t
+  713  ssh pi@192.168.1.29
+  714  cd Serveurs\ MC\ 2020/skyblock/
+  715  ./start.command 
+  716  ./update 
+  717  cd
+  718  ./update 
+  719  cd Serveurs\ MC\ 2020/skyblock/
+  720  ./start.command 
+  721  cd Serveurs\ MC\ 2020/skyblock/
+  722  ./start.command 
+  723  ./update 
+  724  ./start.command 
+  725  ./update 
+  726  ls
+  727  ./update 
+  728  ls
+  729  nano a.out 
+  730  ls abwar/
+  731  lscpu
+  732  sudo apt install wine64
+  733  nano inverse
+  734  chmod 777 inverse 
+  735  ./inverse nigger
+  736  clear
+  737  nano inverse 
+  738  ./inverse Mael
+  739  ./update 
+  740  ssh pi@192.168.1.29
+  741  ./update 
+  742  ssh pi@192.168.1.29
+  743  ssh pi@92.131.163.103
+  744  ssh pi@cloud.boc
+  745  ssh pi@192.168.1.29
+  746  ssh pi@cloud.boc
+  747  ./update 
+  748  ssh pi@cloud.boc
+  749  sudo apt install fail2ban
+  750  ssh pi@cloud.boc
+  751  cd /var/www/html/
+  752  ls
+  753  hostname
+  754  cd /etc/init.d/
+  755  ls
+  756  hostname
+  757  cd ..
+  758  ls
+  759  cd sysconfig
+  760  ls | grep sys
+  761  cd systemd/network/
+  762  ls
+  763  ll
+  764  cd ..
+  765  cd
+  766  nano /etc/host.conf 
+  767  nano /etc/hostname 
+  768  nano /etc/hosts
+  769  sudo nano /etc/hosts
+  770  ssh pi@192.168.1.29
+  771  ssh pi@cloud.boc
+  772  ssh pi@92.131.163.103
+  773  sudo nano /etc/hosts
+  774  tcpdump
+  775  sudo tcpdump
+  776  clear
+  777  ssh pi@92.131.163.103
+  778  clear
+  779  ssh pi@92.131.163.103
+  780  exit
+  781  ./update 
+  782  sudo apt install wine64
+  783  sudo su
+  784  ssh pi@cloud.boc
+  785  ./update 
+  786  cd Serveurs\ MC\ 2020/loris/
+  787  ./start.command 
+  788  cd Downloads/
+  789  ls
+  790  cd ../Documents/
+  791  ls
+  792  cd FileZilla3
+  793  ll
+  794  cd
+  795  sudo apt install filezilla
+  796  ssh pi@snowballe.cloud.boc
+  797  sudo nano /etc/hosts
+  798  ssh pi@snowballe
+  799  ./update 
+  800  ssh pi@snowballe
+  801  cd /var/www/html/
+  802  ls
+  803  nano a 
+  804  nano b
+  805  sudo nano b
+  806  cd
+  807  ls
+  808  cd Serveurs\ MC\ 2020/loris/
+  809  ./start.command 
+  810  sudo nano start.command 
+  811  ./start.command 
+  812  cd Serveurs\ MC\ 2020/lorisaaa/
+  813  ./start.command 
+  814  ./update 
+  815  ssh pi@snowballe
+  816  cd Serveurs\ MC\ 2020/lorisaaa/
+  817  ./start.command 
+  818  ./update 
+  819  ping google.fr
+  820  i p-a
+  821  ip -a
+  822  ip -h
+  823  ip
+  824  ssh pi@snowballe
+  825  pi@cloud.boc
+  826  ssh pi@cloud.boc
+  827  ssh pi@92.131.163.103
+  828  ssh pi@cloud.boc
+  829  sudo apt install minesweeper
+  830  sudo snap install minesweeper
+  831  sudo apt install snap
+  832  sudo snap install minesweeper
+  833  ./update 
+  834  sudo snap install minesweeper
+  835  snap install minesweeper
+  836  snap
+  837  sudo rm /etc/apt/preferences.d/nosnap.pref
+  838  ./update 
+  839  sudo snap install minesweeper
+  840  snap install hello-world
+  841  sudo apt install snapd
+  842  snap install hello-world
+  843  hello-world
+  844  snap install minesweeper
+  845  minesweeper
+  846  sudo snap install minesweeper
+  847  snap minesweeper
+  848  minesweeper
+  849  ifconfig
+  850  ssh pi@cloud.boc
+  851  sudo add-apt-repository universe
+  852  sudo apt install wireshark
+  853  mine-sweeper
+  854  sudo snap install minesweeper
+  855  snap help refresh
+  856  arp
+  857  arp -n
+  858  arp -a
+  859  ping 192.168.56.1
+  860  ping 192.168.156.1
+  861  arp -a
+  862  ping 192.168.156.1
+  863  arp -n
+  864  ip -a
+  865  ping 192.168.56.1
+  866  ifconfig
+  867  ifconfig | grep inet
+  868  tcpdump
+  869  sudo tcpdump
+  870  sudo tcpdump | sleep 50 | grep oui
+  871  sudo tcpdump -v | sleep 5 | grep oui
+  872  sudo tcpdump
+  873  sudo tcpdump && sleep 5s | grep snowballe
+  874  sudo tcpdump && sleep 2s | grep snowballe
+  875  sudo tcpdump && sleep 2s && ^C | grep snowballe
+  876  sudo tcpdump && sleep 1s && ^C | grep snowballe
+  877  sudo tcpdump && sleep 1s && exit | grep snowballe
+  878  snap apps
+  879  snap hel
+  880  snap help
+  881  snap info
+  882  snap find minesweeper
+  883  klines
+  884  kmines
+  885  snap kmines
+  886  snap list
+  887  hello-world
+  888  minesweeper
+  889  clear
+  890  ls
+  891  nano a.out 
+  892  ./update 
+  893  clear
+  894  ls
+  895  echo gruiiiiiiii
+  896  ./update 
+  897  clear
+  898  cd Serveurs\ MC\ 2020/lorisaaa/
+  899  ./start.command 
+  900  poweroff
+  901  ./update 
+  902  shutdown -r now
+  903  cd Serveurs\ MC\ 2020/lorisaaa/
+  904  ./start.command 
+  905  poweroff
+  906  cd Serveurs\ MC\ 2020/lorisaaa/
+  907  ./start.command 
+  908  cd Serveurs\ MC\ 2020/lorisaaa/
+  909  ./start.command 
+  910  cd
+  911  ssh pi@snowballe
+  912  ./update 
+  913  ssh pi@snowballe
+  914  cd Serveurs\ MC\ 2020/
+  915  cd lorisaaa/
+  916  ./start.command 
+  917  cd Serveurs\ MC\ 2020/lorisaaa/
+  918  ./start.command 
+  919  cd Serveurs\ MC\ 2020/lorisaaa/
+  920  ./start.command 
+  921  poweroff
+  922  ./update 
+  923  cd Serveurs\ MC\ 2020/lorisaaa/
+  924  ./start.command 
+  925  shutdown -r now
+  926  cd Serveurs\ MC\ 2020/lorisaaa/
+  927  ./start.command 
+  928  cd Serveurs\ MC\ 2020/lorisaaa/
+  929  ./start.command 
+  930  cd Serveurs\ MC\ 2020/lorisaaa/
+  931  ./start.command 
+  932  ./update 
+  933  cd Serveurs\ MC\ 2020/lorisaaa/
+  934  ./start.command 
+  935  cd Serveurs\ MC\ 2020/lorisaaa/
+  936  ./start.command 
+  937  poweroff
+  938  cd Serveurs\ MC\ 2020/lorisaaa/
+  939  ./start.command 
+  940  poweroff
+  941  ls
+  942  gcc test.c 
+  943  ls
+  944  nano test.c 
+  945  gcc
+  946  run test.c 
+  947  gcc test.c
+  948  gcc -l test.c
+  949  ggc --help
+  950  gcc --help
+  951  ping
+  952  ping -
+  953  ping -h
+  954  tunnelbear
+  955  ls
+  956  ./inverse negre
+  957  clear
+  958  ./inverse Mamiel au sel
+  959  nano mcchanger
+  960  nano os
+  961  mkdir openvpn
+  962  ls
+  963  std::cout
+  964  ls
+  965  sossice
+  966  ls THPGIT/
+  967  cd THPGIT/OC/.vscode/
+  968  ls
+  969  nano launch.json 
+  970  chmod 777 launch.json 
+  971  ./launch.json 
+  972  route -n
+  973  route
+  974  ls
+  975  tous doux le loup
+  976  tout doux le loup
+  977  nano doux
+  978  git
+  979  tiens tiens tiens
+  980  clear
+  981  polochon
+  982  ls
+  983  nano .bahsrc
+  984  ll
+  985  cd THPGIT/
+  986  ls
+  987  cd exos_ruby_tests/
+  988  ls
+  989  cd
+  990  ls
+  991  cd ProjetWebEPSI/
+  992  ls
+  993  cd
+  994  cd THPGIT/
+  995  ls
+  996  cd OC/
+  997  ls
+  998  cd ..
+  999  cd exos_ruby_tests/
+ 1000  ls
+ 1001  cd lib/
+ 1002  ls
+ 1003  cd ../spec/
+ 1004  ls
+ 1005  nano spec_helper.rb 
+ 1006  nano 00_hello_spec.rb 
+ 1007  nano 06_pig_latin_spec.rb 
+ 1008  cd ..
+ 1009  ls
+ 1010  cd lib/
+ 1011  ls
+ 1012  nano 05_timer.rb 
+ 1013  cd ..
+ 1014  ls
+ 1015  cat README.md 
+ 1016  ls
+ 1017  git mv README.md readme.md
+ 1018  ls
+ 1019  clear
+ 1020  ls
+ 1021  rm
+ 1022  rm --help
+ 1023  clear
+ 1024  ls
+ 1025  cd lib/
+ 1026  ls
+ 1027  nano 06_pig_latin.rb 
+ 1028  cd ..
+ 1029  git --version
+ 1030  cd ..
+ 1031  mkdir aled
+ 1032  cd aled/
+ 1033  nano text
+ 1034  nano text 
+ 1035  cat text 
+ 1036  git restore text
+ 1037  git status
+ 1038  cd ..
+ 1039  ll
+ 1040  cd exos_ruby_tests/
+ 1041  ll
+ 1042  mv ../aled/text .
+ 1043  ls
+ 1044  cat text 
+ 1045  nano text 
+ 1046  cat text 
+ 1047  git restore text
+ 1048  git add text 
+ 1049  git restore text
+ 1050  cat text 
+ 1051  nano text 
+ 1052  cat text 
+ 1053  nano text 
+ 1054  cat text 
+ 1055  git restore text
+ 1056  cat text 
+ 1057  echo _______________________________________________________
+ 1058  _
+ 1059  )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+ 1060  echo aled
+ 1061  git commit -m "test boc à la con"
+ 1062  git add *
+ 1063  git commit -m "test boc à la con"
+ 1064  git push
+ 1065  git config --global user.name "Snowballe"
+ 1066  git config --global user.name Snowballe
+ 1067  git branch
+ 1068  git remote show origin
+ 1069  git gonfig -e
+ 1070  git config -e
+ 1071  git branch oscour
+ 1072  git branch
+ 1073  ls
+ 1074  ll
+ 1075  git commit -m "ajout de la branche"
+ 1076  git add 
+ 1077  git add *
+ 1078  git commit -m "ajout de la branche"
+ 1079  ls
+ 1080  git branch
+ 1081  git add oscour
+ 1082  git branch add oscour 
+ 1083  ls
+ 1084  git branch
+ 1085  git commit 
+ 1086  git checkout -b oscour 
+ 1087  git checkout oscour 
+ 1088  ls
+ 1089  git branch
+ 1090  git branch -d add 
+ 1091  git switch master 
+ 1092  git switch oscour 
+ 1093  git add*
+ 1094  git add *
+ 1095  git commit -m "ajout de branche"
+ 1096  git branch
+ 1097  nano jeoui
+ 1098  git add *
+ 1099  git commit -m "ajout du truc de branche"
+ 1100  git push 
+ 1101  git push origin oscour
+ 1102  git switch master 
+ 1103  git switch oscour 
+ 1104  mv jeoui jessaye
+ 1105  git config --global credential.helper wincred
+ 1106  git switch master 
+ 1107  nano chocolat
+ 1108  git add chocolat 
+ 1109  git commit -m "ajout du chocolat samer"
+ 1110  git merge oscour master 
+ 1111  ls
+ 1112  mv jeoui a
+ 1113  git branch
+ 1114  git branch -d oscour 
+ 1115  cd
+ 1116  mkdir bocgit
+ 1117  cd bocgit/
+ 1118  gi tinit
+ 1119  git init
+ 1120  ls
+ 1121  poweroff
+ 1122  cd Serveurs\ MC\ 2020/lorisaaa/
+ 1123  ./start.command 
+ 1124  cd Serveurs\ MC\ 2020/lorisaaa/
+ 1125  ./start.command 
+ 1126  poweroff$
+ 1127  poweroff
+ 1128  wget https://github.com/JonMagon/KDiskMark.git
+ 1129  ls
+ 1130  git clone https://github.com/JonMagon/KDiskMark.git
+ 1131  ls
+ 1132  cd /mnt/
+ 1133  ls
+ 1134  ll
+ 1135  cd
+ 1136  findmnt
+ 1137  findmnt | grep rootfs
+ 1138  mv /media/snowballe/rootfs/ /media/snowballe/Transcend/rasp_boc_nextcloud_apache/
+ 1139  sudo mv /media/snowballe/rootfs/ /media/snowballe/Transcend/rasp_boc_nextcloud_apache/
+ 1140  sudo mv -rf /media/snowballe/rootfs/ /media/snowballe/Transcend/rasp_boc_nextcloud_apache/
+ 1141  mv
+ 1142  mv --help
+ 1143  sudo mv -f /media/snowballe/rootfs/ /media/snowballe/Transcend/rasp_boc_nextcloud_apache/
+ 1144  sudo cp /media/snowballe/rootfs/ /media/snowballe/Transcend/rasp_boc_nextcloud_apache/
+ 1145  sudo cp -r /media/snowballe/rootfs/ /media/snowballe/Transcend/rasp_boc_nextcloud_apache/
+ 1146  ssh pi@192.168.1.29
+ 1147  ssh-keygen -f "/home/snowballe/.ssh/known_hosts" -R "192.168.1.29"
+ 1148  ssh pi@192.168.1.29
+ 1149  ssh 534 pi@192.168.1.29
+ 1150  ssh -p 534 pi@192.168.1.29
+ 1151  ssh -p 534 pi@snowballe
+ 1152  cd Serveurs\ MC\ 2020/lorisaaa/
+ 1153  ./start.command 
+ 1154  ssh pi@192.168.1.29
+ 1155  ssh -p 534 pi@192.168.1.29
+ 1156  ./update 
+ 1157  gcc vscode/aaaa.cpp 
+ 1158  gcc vscode/aaaa
+ 1159  gcc vscode/aaaa.cpp 
+ 1160  ./update 
+ 1161  ping 172.31.250.123
+ 1162  ip a
+ 1163  ls
+ 1164  ./inverse sdmlho
+ 1165  cat inverse 
+ 1166  cd Downloads/
+ 1167  chmod 777 vs_Community.exe 
+ 1168  wine vs_Community.exe 
+ 1169  cd 
+ 1170  ls
+ 1171  which gcc g++
+ 1172  ls | grep test
+ 1173  sudo apt install gcc g++
+ 1174  ssh pi@snowballe
+ 1175  ssh -534 pi@snowballe
+ 1176  ssh 534 pi@snowballe
+ 1177  ssh pi@snowballe
+ 1178  ssh -p pi@snowballe
+ 1179  ssh  pi@snowballe
+ 1180  cd Documents/testcode/
+ 1181  gcc hawow.cpp 
+ 1182  gcc pyramide.cpp 
+ 1183  g++ pyramide.cpp 
+ 1184  gcc pyramide.cpp 
+ 1185  poweroff
+ 1186  ls
+ 1187  mkdir Rep_Exo
+ 1188  cd Rep_Exo/
+ 1189  git init
+ 1190  nano README.md
+ 1191  ls
+ 1192  git add *
+ 1193  git commit -m "Premier commit"
+ 1194  git add .
+ 1195  git commit -m "deuxième commit"
+ 1196  git branch Code_JS
+ 1197  git switch Code_JS 
+ 1198  nano main.js
+ 1199  git add .
+ 1200  git commit -m "Ajout du fichier JS"
+ 1201  git switch master 
+ 1202  git merge Code_JS 
+ 1203  nano readme.md
+ 1204  git branch Code_JS 
+ 1205  git switch Code_JS 
+ 1206  nano README.md
+ 1207  git add .
+ 1208  git commit -m "Ajout des ReadMe"
+ 1209  git switch master 
+ 1210  ll
+ 1211  git switch Code_JS 
+ 1212  ls
+ 1213  cat README.md 
+ 1214  cat readme.md 
+ 1215  rm -rf readme.md 
+ 1216  git switch master 
+ 1217  nano readme.md
+ 1218  git add .
+ 1219  git commit -m "Correction des readme"
+ 1220  git merge Code_JS 
+ 1221  git switch Code_JS 
+ 1222  git merge --quit
+ 1223  git switch Code_JS 
+ 1224  ls
+ 1225  git branch 
+ 1226  mv README.md readme.md 
+ 1227  git merge Code_JS 
+ 1228  git switch Code_JS 
+ 1229  git merge readme.md readme.md
+ 1230  nano readme.md 
+ 1231  rm -rf readme.md 
+ 1232  ls
+ 1233  nano ##Readme de la branche Code_JS
+ 1234  ls
+ 1235  git merge Code_JS 
+ 1236  git commit -m "oui"
+ 1237  git add *
+ 1238  git commit -m "oui"
+ 1239  git merge Code_JS 
+ 1240  ls
+ 1241  git switch Code_JS 
+ 1242  git worktree add
+ 1243  git merge
+ 1244  git add *
+ 1245  git commit
+ 1246  git commit -m "fusion des readme"
+ 1247  git add *
+ 1248  git commit -m "fusion des readme"
+ 1249  git push
+ 1250  git push origin master
+ 1251  git remote add Snowballe
+ 1252  ls
+ 1253  history >> commandes.txt 
